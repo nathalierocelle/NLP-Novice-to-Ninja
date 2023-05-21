@@ -1,5 +1,5 @@
 # Introduction to NLP and its applications
-Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that focuses on the interaction between computers and human language. Its primary goal is to enable machines to understand, interpret, and generate natural language in a meaningful way.
+Natural Language Processing is a subfield of artificial intelligence (AI) that focuses on the interaction between computers and human language. Its primary goal is to enable machines to understand, interpret, and generate natural language in a meaningful way.
 
 NLP finds extensive applications in a variety of domains, some of which include:
 
